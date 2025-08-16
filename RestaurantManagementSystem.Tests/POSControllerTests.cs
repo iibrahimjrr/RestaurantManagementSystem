@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Newtonsoft.Json;
 using RestaurantManagementSystem.Application.Features.POS.Commands;
-using RestaurantManagementSystem.Application.Features.POS.Commands;
 using Xunit;
 
 namespace RestaurantManagementSystem.Tests
